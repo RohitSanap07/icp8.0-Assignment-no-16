@@ -1,0 +1,145 @@
+.media1 {
+    position: fixed;
+    top:75px;
+    background-color: aquamarine;
+    border: none;
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    left: 350px;
+
+  }
+  
+  .media2 {
+    position: fixed;
+    top: 75px;
+    left: 550px;
+    background-color: aquamarine;
+    border: none;
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+    
+  }
+
+  .media3 {
+    position: fixed;
+    top: 75px;
+    left: 750px;
+    background-color: aquamarine;
+    border: none;
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+  
+
+  }
+
+  .media4 {
+    position: fixed;
+    top: 75px;
+    left: 950px;
+    background-color: aquamarine;
+    border: none;
+    font-size: 20px;
+    height: 50px;
+    width: 200px;
+  }
+.head{
+position: fixed;
+left: 480px;
+color: white;
+background-color: rgb(20, 95, 233);
+width: 500px;
+}
+
+.c {
+  background-color: brown;
+  color: white;
+}
+
+
+
+body {
+background-image: url("cafe4.jpg");
+height: 100%;
+}
+
+.card {
+  height: 100px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 150px;
+  top: 150px;
+  position:relative;
+}
+
+.card1 {
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 200px;
+  top: 240px;
+  left: 440px;
+  position:relative;
+}
+.card2 {
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 200px;
+  top: 250px;
+  left: 450px;
+
+  position:relative;
+}
+.card3 {
+  height: 200px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  width: 200px;
+  top: 260px;
+  left: 650px;
+
+  position:relative;
+}
+
+.new {
+color: white;
+background-color: rgb(20, 95, 233);
+width: 300px;
+}
+
+
+
+.img {
+    position:absolute;
+    left: 650px;
+    top: 120px;
+    color: blue;
+    border-radius: 50px;
+    width: 220px;
+    height: 30px;
+    
+  background-color: aliceblue;
+  
+  }
+  .img1 {
+    position:absolute;
+    left: 580px;
+    top: 160px;
+    color: blue;
+    border-radius: 50px;
+    height: 30px;
+    width: 400px;
+    
+    background-color: aliceblue;
+  }
