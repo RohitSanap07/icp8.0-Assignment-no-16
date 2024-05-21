@@ -73,7 +73,7 @@ height: 100%;
   display: inline-block;
   width: 150px;
   top: 150px;
-  position:relative;
+  position:sticky;
 }
 
 .card1 {
@@ -142,4 +142,11 @@ width: 300px;
     width: 400px;
     
     background-color: aliceblue;
+  }
+
+
+  .login{
+background-color: rgb(237, 171, 90);
+font-size: 20px;
+
   }
